@@ -1,8 +1,6 @@
 # Projeto Final Arquitetura Web
 
 
-### Weclome page
-
 ### Signin page
 ![Signin page](./static/signin.gif)
 
