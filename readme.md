@@ -1,29 +1,5 @@
 # Projeto Final Arquitetura Web
-
-
-### Signin page
-![Signin page](./static/signin.gif)
-
-### Home page
-![Home page](./static/home.gif)
-
-### Tv Shows page
-![Tv Shows page](./static/tvshows.gif)
-
-### Movies page
-![Movies page](./static/movies.gif)
-
-
-**Reference** : 
-
-* Código fonte 
-    https://github.com/bhagat-hrishi/amazon-prime-clone.git
-
-* Consumo do TMDB API para informações dos filmes e séries
-    https://developers.themoviedb.org/3
-
-
-**There are two methods for getting started with this repo.**
+Este projeto tem como objetivo desenvolver uma plataforma de streaming baseada na stack MERN (MongoDB, Express, React e Node.js), incorporando um sistema de recomendação para aprimorar a experiência do usuário.
 
 
 #### Como executar
@@ -64,5 +40,11 @@
     REFRESH_TOKEN = refresh token
 
 
+**Reference** : 
 
+* Código fonte 
+    https://github.com/bhagat-hrishi/amazon-prime-clone.git
+
+* Consumo do TMDB API para informações dos filmes e séries
+    https://developers.themoviedb.org/3
 
